@@ -186,6 +186,14 @@ d(h,"pixel.aweber.com")||
 d(h,"sendgrid.net")||
 d(h,"f.vimeocdn.com")||
 d(h,"fresnel.vimeocdn.com")||
+d(h,"static.kameleoon.com")||
+d(h,"cdn.configcat.com")||
+d(h,"cdn-eu.configcat.com")||
+d(h,"vwo.com")||
+d(h,"edge.api.flagsmith.com")||
+d(h,"data.kameleoon.io")||
+d(h,"api.flagsmith.com")||
+d(h,"abtasty.com")||
 d(h,"cdn.jwplayer.com")||
 d(h,"api.bcovlive.io")||
 d(h,"api.refersion.com")||
