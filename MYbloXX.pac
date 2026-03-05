@@ -195,6 +195,9 @@ d(h,"data.kameleoon.io")||
 d(h,"api.flagsmith.com")||
 d(h,"abtasty.com")||
 d(h,"cdn.jwplayer.com")||
+d(h,"is.com")||
+d(h,"app.adjust.com")||
+d(h,"vk.com/rtrg")||
 d(h,"api.bcovlive.io")||
 d(h,"api.refersion.com")||
 d(h,"s.skimresources.com")||
